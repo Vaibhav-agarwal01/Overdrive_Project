@@ -1,0 +1,104 @@
+.github-container {
+    max-width: 600px;
+    margin: 3rem auto;
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    text-align: center;
+  }
+  
+  .avatar {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    border: 3px solid #3b82f6;
+  }
+  
+  h2 {
+    color: #1e3a8a;
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    color: #334155;
+    margin: 0.4rem 0;
+  }
+  
+  .profile-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.6rem 1.2rem;
+    background-color: #3b82f6;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+  }
+  
+  .profile-button:hover {
+    background-color: #2563eb;
+  }
+  .github-user-container {
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .search-box {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .search-box input {
+    flex: 1;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .search-box button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background: #24292e;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .user-card {
+    text-align: center;
+  }
+  
+  .user-card img {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  .user-card h2 {
+    margin: 0;
+  }
+  
+  .user-card p {
+    margin: 0.3rem 0;
+  }
+  
+  .details {
+    margin-top: 1rem;
+    text-align: left;
+  }
+  .profile-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #0366d6;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+  }
+  
